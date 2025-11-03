@@ -1,0 +1,20 @@
+D:\Visual Studio 2022\VS Project\4 курс\КГ\LR_6\bin\Debug\LR_6.exe.config
+D:\Visual Studio 2022\VS Project\4 курс\КГ\LR_6\bin\Debug\LR_6.exe
+D:\Visual Studio 2022\VS Project\4 курс\КГ\LR_6\bin\Debug\LR_6.pdb
+D:\Visual Studio 2022\VS Project\4 курс\КГ\LR_6\obj\Debug\LR_6.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\VS Project\4 курс\КГ\LR_6\obj\Debug\LR_6.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio 2022\VS Project\4 курс\КГ\LR_6\obj\Debug\LR_6.Properties.Resources.resources
+D:\Visual Studio 2022\VS Project\4 курс\КГ\LR_6\obj\Debug\LR_6.csproj.GenerateResource.cache
+D:\Visual Studio 2022\VS Project\4 курс\КГ\LR_6\obj\Debug\LR_6.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\VS Project\4 курс\КГ\LR_6\obj\Debug\LR_6.exe
+D:\Visual Studio 2022\VS Project\4 курс\КГ\LR_6\obj\Debug\LR_6.pdb
+D:\Visual Studio 2022\VS Project\CustomRender\bin\Debug\LR_6.exe.config
+D:\Visual Studio 2022\VS Project\CustomRender\bin\Debug\LR_6.exe
+D:\Visual Studio 2022\VS Project\CustomRender\bin\Debug\LR_6.pdb
+D:\Visual Studio 2022\VS Project\CustomRender\obj\Debug\CustomRender.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\VS Project\CustomRender\obj\Debug\LR_6.Properties.Resources.resources
+D:\Visual Studio 2022\VS Project\CustomRender\obj\Debug\CustomRender.csproj.GenerateResource.cache
+D:\Visual Studio 2022\VS Project\CustomRender\obj\Debug\CustomRender.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\VS Project\CustomRender\obj\Debug\LR_6.exe
+D:\Visual Studio 2022\VS Project\CustomRender\obj\Debug\LR_6.pdb
+D:\Visual Studio 2022\VS Project\CustomRender\obj\Debug\LR_6.exe.config
