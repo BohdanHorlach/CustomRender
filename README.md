@@ -30,3 +30,9 @@ To explore and understand core 3D graphics concepts such as:
 - basic lighting and shading models without external graphics engines.
 
 ---
+
+## Visualization
+
+![Two cubs](assets/CustomRender.gif)
+
+---
